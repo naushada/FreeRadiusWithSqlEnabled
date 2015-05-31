@@ -361,7 +361,7 @@ authorize {
 	#
 	#  Read the 'users' file.  In v3, this is located in
 	#  raddb/mods-config/files/authorize
-	files
+	#files
 
 	#
 	#  Look in an SQL database.  The schema of the database
@@ -560,7 +560,7 @@ preacct {
 
 	#
 	#  Read the 'acct_users' file
-	files
+	#files
 }
 
 #
